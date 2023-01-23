@@ -1,2 +1,2 @@
 rgname = "prodrg"
-location = "east us2"
+location = "eastus2"
