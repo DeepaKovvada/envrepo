@@ -1,2 +1,2 @@
 rgname = "qarg"
-location = "canada central"
+location = "canadacentral"
