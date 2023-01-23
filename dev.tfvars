@@ -1,2 +1,2 @@
 rgname = "devrg"
-location = "east us"
+location = "eastus"
